@@ -30,3 +30,7 @@ Organizzare i singoli membri in card/schede. Se non vi sentite particolarmente c
 1. Creare un'array di oggetti con le informazioni fornite (nome ruolo e foto);
 2. Stampare in console tramite for tutte le informazioni inserite nell'array di oggetti;
 3. Stampare nel DOM tutte le informazioni precedenti come delle stringhe.
+
+**Bonus 1 e 2**
+1. Trasformare le stringhe delle foto in delle immagini vere e proprie;
+2. Inserire tutti i dati e le immagini in delle card, in modo da creare una pagina adeguata.
