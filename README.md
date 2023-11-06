@@ -8,7 +8,7 @@ Angela Caroll -----	Chief Editor ----- angela-caroll-chief-editor.jpg
 Walter Gordon -----	Office Manager ----- walter-gordon-office-manager.jpg
 Angela Lopez ----- Social Media Manager ----- angela-lopez-social-media-manager.jpg
 Scott Estrada -----	Developer ----- scott-estrada-developer.jpg
-Barbara Ramos -----	Graphic Designe ----- barbara-ramos-graphic-designer.jpg
+Barbara Ramos -----	Graphic Designer ----- barbara-ramos-graphic-designer.jpg
 
 **MILESTONE 0:**
 Creare l’array di oggetti con le informazioni fornite.
